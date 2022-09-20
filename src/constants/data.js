@@ -2,14 +2,14 @@ import images from './images';
 
 const wines = [
   {
-    title: 'Chapel Hill Shiraz',
-    price: '56€',
-    tags: 'AU | Bottle',
+    title: 'Château Margaux',
+    price: '256€',
+    tags: 'FR | Bouteille',
   },
   {
-    title: 'Catena Malbee',
-    price: '59€',
-    tags: 'AU | Bottle',
+    title: 'Château Clarke',
+    price: '160€',
+    tags: 'FR | Bouteille',
   },
   {
     title: 'La Vieille Rose',
