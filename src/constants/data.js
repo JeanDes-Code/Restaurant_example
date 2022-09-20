@@ -59,22 +59,22 @@ const cocktails = [
 const awards = [
   {
     imgUrl: images.award02,
-    title: 'Bib Gourmond',
+    title: 'La Fourchette',
     subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
   },
   {
     imgUrl: images.award01,
-    title: 'Rising Star',
+    title: 'Trip Advisor',
     subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
   },
   {
     imgUrl: images.award05,
-    title: 'AA Hospitality',
+    title: 'ZenChef',
     subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
   },
   {
     imgUrl: images.award03,
-    title: 'Outstanding Chef',
+    title: 'Guide Michelin',
     subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
   },
 ];
